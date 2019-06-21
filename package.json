@@ -21,5 +21,8 @@
     "url": "https://github.com/bianavic/js-tdd-course/issues"
   },
   "homepage": "https://github.com/bianavic/js-tdd-course#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.13.0"
+  }
 }
