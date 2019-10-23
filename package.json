@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bianavic/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/bianavic/js-tdd-course#readme"
+  "homepage": "https://github.com/bianavic/js-tdd-course#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
 }
